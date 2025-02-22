@@ -1,1 +1,1 @@
-console.log("learnig git");
+console.log("Start learnig web3");
